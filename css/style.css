@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+p1{
+    background-color: rgb(202, 216, 47);
+    color: rgb(124, 0, 0);
+    text-align: center;
+}
+p2{
+    background-color: rgb(240, 105, 57);
+    color: rgb(2, 26, 8);
+    text-align: justify;
+}
+p3{
+background-color: rgb(3, 34, 3);
+color: rgb(228, 223, 194);
+text-align: left;
+}
+p4{
+    background-color: rgb(130, 86, 161);
+    color: rgb(202, 216, 47);
+    text-align: right;
+}
