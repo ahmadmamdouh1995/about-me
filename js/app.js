@@ -154,8 +154,9 @@ alert(`your name is ${name}`);
 
 var laptobs = ['lenovo', 'hp', 'dell', 'ibm', 'acer', 'mac'];
 var guess7 = prompt("guess my fav laptob type ?", "dell");
+
 for (var i = 0; i < 5; i++) {
-    if (laptobs[0] == guess7 || laptobs[1] == guess7 || laptobs[2] == guess7 || laptobs[3] == guess7 || laptobs[4] == guess7 || laptobs[5] == guess7) {
+    if (laptobs[i] == guess7 ) {
         alert('good job bro !');
         x = x + 1;
         { break; };
